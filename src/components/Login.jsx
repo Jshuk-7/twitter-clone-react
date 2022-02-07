@@ -15,7 +15,7 @@ const Login = () =>
       <div className="strike">
         <span>or</span>
       </div>
-      <button className="sign-up-button">Sign up with phone or email</button>
+      <button  className="sign-up-button">Sign up with phone or email</button>
       <p className="agreements">By signing up, you agree to the <a href="/tos">Terms of Service</a> and <a href="/privacy">Privacy Policy</a>, including <a href="/cookiepolicy">Cookie Policy</a></p>
       <h4>Already have an account?</h4>
       <button className="sign-in-button">Sign in</button>
